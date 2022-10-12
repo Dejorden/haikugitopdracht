@@ -1,4 +1,4 @@
-# Haiku opdracht
+# Haiku opdracht van Dejorden en Jerry
 
 Bij deze opdracht gaan jij een een klasgenoot (of klasgenoten) samen aan code werken
 
